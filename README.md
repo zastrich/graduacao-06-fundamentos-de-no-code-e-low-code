@@ -1,9 +1,12 @@
-# TeamFlow - Portal de Gerenciamento de Tarefas e Colaboração
+# **Graduação IA e Automação Digital - 1º Semestre**
+## *Trabalho para a disciplina de Fundamentos de No-code e Low-code*
 
-## 📝 Descrição do Projeto
 O **TeamFlow** é uma aplicação web funcional construída com Bubble (No-code) para resolver problemas reais de gestão de tarefas e comunicação em equipes. O sistema permite que times colaborem em tempo real, organizando fluxos de trabalho através de um quadro Kanban intuitivo.
 
 Este projeto foi desenvolvido como parte do trabalho final da disciplina **Fundamentos de No-code e Low-code**.
+
+# Vídeo de demonstração (Pitch):
+[![Watch the video](https://img.youtube.com/vi/-DsExJu9A5U/maxresdefault.jpg)](https://youtu.be/-DsExJu9A5U)
 
 ## 🚀 Funcionalidades Principais
 - **Autenticação de Usuários**: Sistema completo de Login e Signup.
@@ -15,8 +18,8 @@ Este projeto foi desenvolvido como parte do trabalho final da disciplina **Funda
 - **Filtros e Busca**: Busca por palavras-chave e filtros por responsável ou prioridade.
 
 ## 🔗 Links Úteis
-- **Aplicação Publicada (Preview)**: [Acesse aqui](https://robertschweppe189818.bubbleapps.io/version-test?debug_mode=true)
-- **Documentação Teórica**: [PDF Requisitos](file:///d:/graduacao-ia/graduacao-06-fundamentos-de-no-code-e-low-code/assets/trabalho/Fundamentos%20de%20No-code%20e%20Low-code.docx.pdf)
+- **Aplicação Publicada (Preview)**: [Acesse aqui](https://teamflow-27948.bubbleapps.io/version-test/)
+- **Trabalho Teórico**: [Link](src/trabalho-final/teorico/Disciplina%20de%20Fundamentos%20de%20No-code%20e%20Low-code%20-%20Trabalho%20Teórico.md)
 
 ## 📊 Modelagem de Dados
 O banco de dados foi estruturado de forma relacional no Bubble, garantindo integridade e escalabilidade:
@@ -30,21 +33,38 @@ O banco de dados foi estruturado de forma relacional no Bubble, garantindo integ
 
 ## 🛠️ Tecnologias Utilizadas
 - **Bubble.io**: Plataforma principal No-code.
-- **Bubble AI Agent**: Utilizado para aceleração do blueprint inicial e modelagem de dados.
-- **Vanilla CSS/Workflows**: Lógica e design customizados.
 
 ## 📸 Screenshots
-### Dashboard Kanban (Editor)
-![Dashboard Editor](teamflow_dashboard_editor.png)
+
+### Tela principal
+![Tela principal](src/trabalho-final/screens/home.png)
+
+### Tela principal - Modais de ação
+![alt text](src/trabalho-final/screens/home/image.png)
+![alt text](src/trabalho-final/screens/home/image-1.png)
+![alt text](src/trabalho-final/screens/home/image-2.png)
+![alt text](src/trabalho-final/screens/home/image-3.png)
+
+### Workflows
+![Workflows](src/trabalho-final/screens/workflows.png)
+
+![Workflows 2](src/trabalho-final/screens/workflows-2.png)
 
 ### Estrutura do Banco de Dados
-![Data Model](teamflow_data_task_fields.png)
+![alt text](src/trabalho-final/screens/data/image.png)
+![alt text](src/trabalho-final/screens/data/image-1.png)
+![alt text](src/trabalho-final/screens/data/image-2.png)
+![alt text](src/trabalho-final/screens/data/image-3.png)
+![alt text](src/trabalho-final/screens/data/image-4.png)
+![alt text](src/trabalho-final/screens/data/image-5.png)
 
-### Fluxos de Trabalho (Workflows)
-![Workflows](teamflow_workflows.png)
-
-### Aplicação em Funcionamento
-![Preview Dashboard](teamflow_preview_dashboard_updated.png)
-
----
-*Desenvolvido por Antigravity (Simulação de Estudante de IA)*
+### Aplicação em uso
+![alt text](src/trabalho-final/screens/aplicacao/image.png)
+![alt text](src/trabalho-final/screens/aplicacao/image-1.png)
+![alt text](src/trabalho-final/screens/aplicacao/image-2.png)
+![alt text](src/trabalho-final/screens/aplicacao/image-3.png)
+![alt text](src/trabalho-final/screens/aplicacao/image-4.png)
+![alt text](src/trabalho-final/screens/aplicacao/image-5.png)
+![alt text](src/trabalho-final/screens/aplicacao/image-6.png)
+![alt text](src/trabalho-final/screens/aplicacao/image-7.png)
+![alt text](src/trabalho-final/screens/aplicacao/image-8.png)
