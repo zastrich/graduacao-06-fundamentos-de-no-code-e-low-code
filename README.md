@@ -6,7 +6,7 @@ O **TeamFlow** é uma aplicação web funcional construída com Bubble (No-code)
 Este projeto foi desenvolvido como parte do trabalho final da disciplina **Fundamentos de No-code e Low-code**.
 
 # Vídeo de demonstração (Pitch):
-[![Watch the video](https://img.youtube.com/vi/-DsExJu9A5U/maxresdefault.jpg)](https://youtu.be/-DsExJu9A5U)
+[![Watch the video](https://img.youtube.com/vi/4PjVlxXh0bI/maxresdefault.jpg)](https://youtu.be/4PjVlxXh0bI)
 
 ## 🚀 Funcionalidades Principais
 - **Autenticação de Usuários**: Sistema completo de Login e Signup.
